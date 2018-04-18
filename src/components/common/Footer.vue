@@ -7,7 +7,7 @@
           <div class="col-lg-3 col-md-6 footer-info">
             <h3>Hofsa</h3>
             <p class="text-left">
-				House of faith students and associates humbly welcomes you to come and worship with us. The location is Mount Olives, Boadi - Knust.
+				House of faith students and associates humbly welcome you to worship with us. The location is Mount Olives, Boadi - Knust.
 			</p>
           </div>
 
@@ -26,7 +26,7 @@
             <h4>Contact Us</h4>
             <p>
               Boadi - Knust <br>
-              Kumasi - Ashanti<br>
+              Kumasi - Ashanti <br>
               Ghana <br>
               <strong>Phone:</strong> +233 247 512 141<br>
               <strong>Email:</strong> addaiz.godfred@gmail.com<br>
@@ -36,8 +36,6 @@
               <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
               <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
               <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
-              <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
-              <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
             </div>
 
           </div>

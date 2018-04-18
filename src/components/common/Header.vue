@@ -14,7 +14,7 @@
 					<li><a href="#campus-connect">Campus Connect</a></li>
 					<li><a href="#hofsa-organogram">Organogram</a></li>
 					<li><a href="#missions">Missions</a></li>
-					<li><a href="#projects">Projects & Programmes</a></li>
+					<li><a href="#projects">Programmes</a></li>
 					<li><a href="#projects">Support Now</a></li>
 					<li><a href="#projects">Partnerships</a></li>
 					<li><a href="#projects">Gallery</a></li>
@@ -40,8 +40,6 @@ export default {
 </script>
 
 <style scoped>
-	header {
-		background-color: #000;
-	}
+	
 </style>
 
