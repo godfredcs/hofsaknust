@@ -14,8 +14,8 @@
             <div class="carousel-background"><img src="static/img/intro-carousel/hofsa00.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2>We are professional</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                <h2>Jeremiah 32 : 40</h2>
+                <p>And I will make an everlasting covenant with them, that I will not turn away from them, to do them good; but I will put my fear in their hearts, that they shall not depart from me.</p>
               </div>
             </div>
           </div>
@@ -24,8 +24,8 @@
             <div class="carousel-background"><img src="static/img/intro-carousel/hofsa01.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2>At vero eos et accusamus</h2>
-                <p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut.</p>
+                <h2>Psalms 30 : 11 - 12</h2>
+                <p>Thou hast turned for me my mourning into dancing: thou hast put off my sackcloth, and girded me with gladness; To the end that my glory may sing praise to thee, and not be silent. O Lord my God, I will give thanks unto thee for ever.</p>
               </div>
             </div>
           </div>
@@ -34,8 +34,8 @@
             <div class="carousel-background"><img src="static/img/intro-carousel/hofsa02.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2>Temporibus autem quibusdam</h2>
-                <p>Beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt omnis iste natus error sit voluptatem accusantium.</p>
+                <h2>Joshua 1 : 8</h2>
+                <p>This book of the law shall not depart out of thy mouth; but thou shalt meditate therein day and night, that thou mayest observe to do according to all that is written therein: for then thou shalt make thy way prosperous, and then thou shalt have good success.</p>
               </div>
             </div>
           </div>
@@ -44,8 +44,8 @@
             <div class="carousel-background"><img src="static/img/intro-carousel/hofsa03.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2>Nam libero tempore</h2>
-                <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum.</p>
+                <h2>Romans 12 : 1</h2>
+                <p>I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.</p>
               </div>
             </div>
           </div>
@@ -54,8 +54,8 @@
             <div class="carousel-background"><img src="static/img/intro-carousel/hofsa04.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2>Magnam aliquam quaerat</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                <h2>Psalms 98 : 4 - 9</h2>
+                <p>Make a joyful noise unto the Lord, all the earth: make a loud noise, and rejoice, and sing praise. Sing unto the Lord with the harp; with the harp, and the voice of a psalm. With trumpets and sound of cornet make a joyful noise before the Lord, the King. Let the sea roar, and the fullness thereof; the world, and they that dwell therein. Let the floods clap their hands: let the hills be joyful together. Before the Lord, for he cometh to judge the earth: with righteousness shall he judge the world, and the people with equity</p>
               </div>
             </div>
           </div>
@@ -64,8 +64,8 @@
             <div class="carousel-background"><img src="static/img/intro-carousel/hofsa05.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2>Magnam aliquam quaerat</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                <h2>Psalms 95 : 6</h2>
+                <p>O come, let us worship and bow down: let us kneel before the Lord our maker.</p>
               </div>
             </div>
           </div>
