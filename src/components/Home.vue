@@ -3,15 +3,14 @@
 	  	<app-header />
 
 		<app-intro />
-		
-		<div class="front">
-			<div>
-				<h1 class="text-black">Welcome to hofsa knust</h1>
-				<p style="color: #AAA;">We are still in the period of 40 days fasting and prayers and you are humbly welcome to join</p>
-			</div>
-		</div>
 
-	  <app-footer />
+		<app-about />
+
+		<app-executives />
+
+		<app-team />
+
+	  	<app-footer />
   </div>
 </template>
 
@@ -19,36 +18,22 @@
 import Header from '@/components/common/Header.vue';
 import Footer from '@/components/common/Footer.vue';
 import Intro from '@/components/common/Intro.vue';
+import About from '@/components/common/About.vue';
+import Executives from '@/components/common/Executives.vue';
+import Team from '@/components/common/Team.vue';
 
 export default {
 	components: {
 		appHeader: Header,
 		appFooter: Footer,
 		appIntro: Intro,
+		appAbout: About,
+		appExecutives: Executives,
+		appTeam: Team,
 	}
 }
 </script>
 
 <style scoped>
-#wrapper {
-	
-}
 
-#upfront {
-	height: 100vh;
-	background-color: #000;
-	margin: auto auto;
-}
-
-.front {
-	padding-top: 100px;
-	height: inherit;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-}
-
-.text-black {
-	color: #000;
-}
 </style>
