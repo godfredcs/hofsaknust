@@ -13,8 +13,8 @@
           <div class="col-lg-12">
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
+              <li data-filter=".filter-app">Governance</li>
+              <li data-filter=".filter-card">Media & Publicity</li>
               <li data-filter=".filter-web">Web</li>
             </ul>
           </div>
@@ -31,8 +31,8 @@
               </figure>
 
               <div class="portfolio-info">
-                <h4><a href="#">App 1</a></h4>
-                <p>App</p>
+                <h4><a href="#">President</a></h4>
+                <p>Governance</p>
               </div>
             </div>
           </div>
@@ -61,8 +61,8 @@
               </figure>
 
               <div class="portfolio-info">
-                <h4><a href="#">App 2</a></h4>
-                <p>App</p>
+                <h4><a href="#">Vice President</a></h4>
+                <p>Governance</p>
               </div>
             </div>
           </div>
@@ -106,8 +106,8 @@
               </figure>
 
               <div class="portfolio-info">
-                <h4><a href="#">App 3</a></h4>
-                <p>App</p>
+                <h4><a href="#">Secretary</a></h4>
+                <p>Governance</p>
               </div>
             </div>
           </div>
