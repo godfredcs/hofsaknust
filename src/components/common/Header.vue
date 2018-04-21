@@ -10,15 +10,15 @@
 
 			<nav id="nav-menu-container">
 				<ul class="nav-menu">
-					<li class="menu-active"><a href="#intro">Home</a></li>
-					<li><a href="#campus-connect">Campus Connect</a></li>
-					<li><a href="#hofsa-organogram">Organogram</a></li>
-					<li><a href="#missions">Missions</a></li>
-					<li><a href="#projects">Programmes</a></li>
-					<li><a href="#projects">Support Now</a></li>
-					<li><a href="#projects">Partnerships</a></li>
-					<li><a href="#projects">Gallery</a></li>
-					<li><a href="#projects">Calendar</a></li>
+					<router-link to="/" tag="li" exact-active-class="menu-active" exact><a>Home</a></router-link>
+					<router-link to="/campus_connect" tag="li"><a>Campus Connect</a></router-link>
+					<router-link to="/organogram" tag="li"><a>Organogram</a></router-link>
+					<router-link to="/missions" tag="li"><a>Missions</a></router-link>
+					<router-link to="/programmes" tag="li"><a>Programmes</a></router-link>
+					<router-link to="/support_now" tag="li"><a>Support Now</a></router-link>
+					<router-link to="/partnerships" tag="li"><a>Partnerships</a></router-link>
+					<router-link to="/gallery" tag="li"><a>Gallery</a></router-link>
+					<router-link to="/calendar" tag="li"><a>Calendar</a></router-link>
 					<!-- li class="menu-has-children"><a href="">Drop Down</a>
 						<ul>
 						<li><a href="#">Drop Down 1</a></li>

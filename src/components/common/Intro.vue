@@ -54,8 +54,8 @@
             <div class="carousel-background"><img src="static/img/intro-carousel/hofsa04.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2>Psalms 98 : 4 - 9</h2>
-                <p>Make a joyful noise unto the Lord, all the earth: make a loud noise, and rejoice, and sing praise. Sing unto the Lord with the harp; with the harp, and the voice of a psalm. With trumpets and sound of cornet make a joyful noise before the Lord, the King. Let the sea roar, and the fullness thereof; the world, and they that dwell therein. Let the floods clap their hands: let the hills be joyful together. Before the Lord, for he cometh to judge the earth: with righteousness shall he judge the world, and the people with equity</p>
+                <h2>Psalms 98 : 4 - 6</h2>
+                <p>Make a joyful noise unto the Lord, all the earth: make a loud noise, and rejoice, and sing praise. Sing unto the Lord with the harp; with the harp, and the voice of a psalm. With trumpets and sound of cornet make a joyful noise before the Lord, the King.</p>
               </div>
             </div>
           </div>

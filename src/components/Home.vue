@@ -1,6 +1,6 @@
 <template>
-  <div id="wrapper">
-	  	<app-header />
+	<div id="wrapper">
+		<app-header />
 
 		<app-intro />
 
@@ -10,8 +10,8 @@
 
 		<app-team />
 
-	  	<app-footer />
-  </div>
+		<app-footer />
+	</div>
 </template>
 
 <script>
