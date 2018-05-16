@@ -94,5 +94,8 @@ export default {
 </script>
 
 <style>
-
+  div.carousel-background > img {
+    width: 100% !important;
+    height: 100% !important;
+  }
 </style>

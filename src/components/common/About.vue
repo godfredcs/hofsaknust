@@ -15,7 +15,7 @@
           <div class="col-md-4 wow fadeInUp">
             <div class="about-col">
               <div class="img">
-                <img src="static/img/about-mission.jpg" alt="" class="img-fluid">
+                <img src="static/img/about/mission.jpg" alt="" class="img-fluid">
                 <div class="icon"><i class="ion-ios-speedometer-outline"></i></div>
               </div>
               <h2 class="title"><a href="#">Our Mission</a></h2>
@@ -28,7 +28,7 @@
           <div class="col-md-4 wow fadeInUp" data-wow-delay="0.1s">
             <div class="about-col">
               <div class="img">
-                <img src="static/img/about-plan.jpg" alt="" class="img-fluid">
+                <img src="static/img/about/core_values.jpg" alt="" class="img-fluid">
                 <div class="icon"><i class="ion-ios-list-outline"></i></div>
               </div>
               <h2 class="title"><a href="#">Our Core Values</a></h2>
@@ -41,7 +41,7 @@
           <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
             <div class="about-col">
               <div class="img">
-                <img src="static/img/about-vision.jpg" alt="" class="img-fluid">
+                <img src="static/img/about/vision.jpg" alt="" class="img-fluid">
                 <div class="icon"><i class="ion-ios-eye-outline"></i></div>
               </div>
               <h2 class="title"><a href="#">Our Vision</a></h2>

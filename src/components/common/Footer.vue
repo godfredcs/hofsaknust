@@ -7,42 +7,37 @@
           <div class="col-lg-3 col-md-6 footer-info">
             <h3>Hofsa</h3>
             <p class="text-left">
-				House of faith students and associates humbly welcome you to worship with us. The location is Mount Olives, Boadi - Knust.
-			</p>
+				      House of faith students and associates humbly welcome you to worship with us. The location is Mount Olives, Boadi - Knust.
+			      </p>
           </div>
 
-          <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Useful Links</h4>
-            <ul>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">Home</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">About us</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">Services</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">Privacy policy</a></li>
-            </ul>
+          <div class="col-lg-3 col-md-6 footer-info">
+            <h3>FIC</h3>
+            <p class="text-left">
+              Faith International Centre also warmly invites you to come and worship. The location is the same Mount Olives, Boadi - Knust, Kumasi.
+			      </p>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-contact">
             <h4>Contact Us</h4>
             <p>
-              Boadi - Knust <br>
-              Kumasi - Ashanti <br>
-              Ghana <br>
-              <strong>Phone:</strong> +233 247 512 141<br>
-              <strong>Email:</strong> addaiz.godfred@gmail.com<br>
+              Mount Olives, Boadi - Knust <br>
+              Kumasi - Ghana <br>
+              <strong>Phone:</strong> +233 247 512 141 <br>
+              <strong>Email:</strong> addaiz.godfred@gmail.com <br>
             </p>
 
             <div class="social-links">
-              <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
-              <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
-              <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
+              <a href="#" class="twitter" target="_blank"><i class="fa fa-twitter"></i></a>
+              <a href="#" class="facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+              <a href="#" class="instagram" target="_blank"><i class="fa fa-instagram"></i></a>
             </div>
 
           </div>
 
           <div class="col-lg-3 col-md-6 footer-newsletter">
             <h4>Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna veniam enim veniam illum dolore legam minim quorum culpa amet magna export quem marada parida nodela caramase seza.</p>
+            <p>Please enter your email to receive weekly newsletters from us.</p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit"  value="Subscribe">
             </form>
