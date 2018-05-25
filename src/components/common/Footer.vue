@@ -7,22 +7,23 @@
           <div class="col-lg-3 col-md-6 footer-info">
             <h3>Hofsa</h3>
             <p class="text-left">
-				      House of faith students and associates humbly welcome you to worship with us. The location is Mount Olives, Boadi - Knust.
+				      House of faith students and associates humbly welcome you to worship with us. The location is Mount Olives, Boadi - KNUST, Kumasi.
 			      </p>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-info">
             <h3>FIC</h3>
             <p class="text-left">
-              Faith International Centre also warmly invites you to come and worship. The location is the same Mount Olives, Boadi - Knust, Kumasi.
+              Faith International Centre also warmly invites you to come and worship. The location is the same Mount Olives, Boadi - KNUST, Kumasi.
 			      </p>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-contact">
             <h4>Contact Us</h4>
             <p>
-              Mount Olives, Boadi - Knust <br>
-              Kumasi - Ghana <br>
+              Mount Olives, Boadi <br>
+              KNUST - Kumasi <br>
+              Ghana <br>
               <strong>Phone:</strong> +233 247 512 141 <br>
               <strong>Email:</strong> addaiz.godfred@gmail.com <br>
             </p>
